@@ -30,6 +30,6 @@ This project contains 3 parts:
 ## Chart: 
 
 <p align="center">
-  ![messageImage_1621854517955](https://user-images.githubusercontent.com/84655285/119339232-1dcfdc80-bcbb-11eb-9f90-610d157f7792.jpg)
+  <img src="https://user-images.githubusercontent.com/84655285/119339232-1dcfdc80-bcbb-11eb-9f90-610d157f7792.jpg"/>
 </p>
 
