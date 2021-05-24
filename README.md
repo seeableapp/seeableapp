@@ -1,6 +1,6 @@
 # SeeAble - Blinds and Caretakers assistant application.
 
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/84655285/119373405-95fdc880-bce2-11eb-8752-4767e94b0422.jpg"/></div>
+<div style="text-align:center; width: 100%"><img src="https://user-images.githubusercontent.com/84655285/119373405-95fdc880-bce2-11eb-8752-4767e94b0422.jpg"/></div>
 
 this is the app that improve blind's security and notify any danger from blinds to caretakers.
 
