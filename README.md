@@ -6,13 +6,15 @@
 
 this is the app that improve blind's security and notify any danger from blinds to caretakers.
 
+## Project Section:
+
 This project contains 3 parts: 
 
   1. Android Application (Kotlin)
   1. Arduino with ESP32 and ESP8266
   1. Notification handling (NodeJS)
 
-Knowledge stack requirement: 
+## Knowledge stack requirement: 
   * Android (Kotlin)
   * TensorFlow
   * Google cloud platform
@@ -22,6 +24,6 @@ Knowledge stack requirement:
   * NodeJS
   * JavaScript
 
-Chart: 
+## Chart: 
 
 ![messageImage_1621854517955](https://user-images.githubusercontent.com/84655285/119339232-1dcfdc80-bcbb-11eb-9f90-610d157f7792.jpg)
